@@ -2,7 +2,7 @@
 Analysis of the English-Slovak [MUSE](https://github.com/facebookresearch/MUSE) evaluation dataset [Conneau et al. (2017)](https://arxiv.org/pdf/1710.04087.pdf). Please cite [[1]](https://nlp.fi.muni.cz/raslan/2021/paper3.pdf) if you found the resources in this repository useful.
 
 ## References
-[1] Denisová, M. and Rychlý, P. (2021). [When Word Pairs Matter: Analysis of the English-Slovak Evaluation Dataset.](https://nlp.fi.muni.cz/raslan/2021/paper3.pdf) In Recent Advances in Slavonic Natural Language Processing (RASLAN 2021), Brno: Tribun EU, pp. 141-149.
+[1] Denisová, M. and Rychlý, P. (2021). [When Word Pairs Matter: Analysis of the English-Slovak Evaluation Dataset.](https://nlp.fi.muni.cz/raslan/2021/paper3.pdf) In *Recent Advances in Slavonic Natural Language Processing (RASLAN 2021)*, pp. 141-149. Brno: Tribun EU.
 ```
 @Inproceedings{denisova-rychly-2021,
     author = "Denisová, Michaela and Rychlý, Pavel",
